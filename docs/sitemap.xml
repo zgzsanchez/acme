@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/acme/</loc>
+    <lastmod>2022-09-21T09:44:51+02:00</lastmod>
+  </url><url>
+    <loc>/acme/viajes/paris/</loc>
+    <lastmod>2022-09-21T09:44:51+02:00</lastmod>
+  </url><url>
+    <loc>/acme/viajes/</loc>
+    <lastmod>2022-09-21T09:44:51+02:00</lastmod>
+  </url><url>
+    <loc>/acme/viajes/pirineo/</loc>
+    <lastmod>2022-09-21T08:55:05+02:00</lastmod>
+  </url><url>
+    <loc>/acme/curriculum/</loc>
+    <lastmod>2022-09-21T08:53:54+02:00</lastmod>
+  </url><url>
+    <loc>/acme/categories/</loc>
+  </url><url>
+    <loc>/acme/tags/</loc>
+  </url>
+</urlset>

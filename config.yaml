@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: /acme
 languageCode: es-es
 title: ACME Servicios Tecno
 theme: Eclectic

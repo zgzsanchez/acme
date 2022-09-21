@@ -3,7 +3,8 @@ title: "Pirineo"
 date: 2022-09-21T08:55:05+02:00
 draft: false
 ---
-## Mi viaje
+>Viajes de verano
+>Aragón
 
 A lo largo y ancho de sus más de 27.000 hectáreas contemplarás parajes tan emblemáticos como la frondosa Selva de Oza, Aguas Tuertas y el Castillo de Acher, en el valle de Hecho; Zuriza, el hayedo de Gamueta y la peña Ezcaurri, en el valle de Ansó; o el pico Bisaurín en el valle de Aragüés del Puerto.
  
