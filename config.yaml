@@ -13,6 +13,14 @@ author:
 
 menu:
   main: 
+    - identifier: viajes 
+      name: viajes 
+      url: /viajes
+      weight: 10 
+    - identifier: curriculum 
+      name: Curriculum 
+      url: /curriculum 
+      weight: 50 
     - identifier: about 
       name: Acerca de 
       url: /about 
@@ -22,6 +30,7 @@ menu:
       url: /contacto 
       weight: 200 
 params: 
+  colorPickerEnabled: true
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
   footer:
