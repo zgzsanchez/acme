@@ -1,4 +1,4 @@
-baseURL: /acme
+baseURL: /
 languageCode: es-es
 title: ACME Servicios Tecno
 theme: Eclectic
@@ -25,8 +25,8 @@ menu:
       name: Acerca de 
       url: /about 
       weight: 100 
-    - identifier: contact
-      name: Contacto 
+    - identifier: contacto
+      name: contacto 
       url: /contacto 
       weight: 200 
 params: 
