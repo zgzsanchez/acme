@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ACME Servicios Tecno</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on ACME Servicios Tecno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 28 Sep 2022 08:52:19 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>/blog/c&#43;&#43;/</link>
+      <pubDate>Wed, 28 Sep 2022 08:52:19 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/c&#43;&#43;/</guid>
+      <description>C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/blog/python/</link>
+      <pubDate>Wed, 28 Sep 2022 08:52:02 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/python/</guid>
+      <description>Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, ejemplos: Instagram, Netflix, Spotify, Panda 3D, entre otros.</description>
+    </item>
+    
+    <item>
+      <title>Visual</title>
+      <link>/blog/visual/</link>
+      <pubDate>Wed, 28 Sep 2022 08:51:49 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/visual/</guid>
+      <description>Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.</description>
+    </item>
+    
+  </channel>
+</rss>

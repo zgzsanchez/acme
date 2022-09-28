@@ -1,42 +1,96 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ACME Servicios Tecno</title>
-    <link>/acme/</link>
-    <description>Recent content on ACME Servicios Tecno</description>
+    <title>Página principal on ACME Servicios Tecno</title>
+    <link>/</link>
+    <description>Recent content in Página principal on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:44:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2022 08:53:54 +0200</lastBuildDate>
     
-        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<title>C&#43;&#43;</title>
+<link>/blog/c&#43;&#43;/</link>
+<pubDate>Wed, 28 Sep 2022 08:52:19 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/c&#43;&#43;/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Python</title>
+<link>/blog/python/</link>
+<pubDate>Wed, 28 Sep 2022 08:52:02 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/python/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Visual</title>
+<link>/blog/visual/</link>
+<pubDate>Wed, 28 Sep 2022 08:51:49 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/visual/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Acerca de</title>
+<link>/about/</link>
+<pubDate>Wed, 28 Sep 2022 08:47:32 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Zaragoza</title>
+<link>/viajes/zaragoza/</link>
+<pubDate>Wed, 28 Sep 2022 08:42:45 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/viajes/zaragoza/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contacto</title>
+<link>/contacto/</link>
+<pubDate>Thu, 22 Sep 2022 13:41:33 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/contacto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
 <title>Paris</title>
-<link>/acme/viajes/paris/</link>
+<link>/viajes/paris/</link>
 <pubDate>Wed, 21 Sep 2022 09:44:51 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/paris/</guid>
+      <guid>/viajes/paris/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Pirineo</title>
-<link>/acme/viajes/pirineo/</link>
+<link>/viajes/pirineo/</link>
 <pubDate>Wed, 21 Sep 2022 08:55:05 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/viajes/pirineo/</guid>
+      <guid>/viajes/pirineo/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Curriculum</title>
-<link>/acme/curriculum/</link>
+<link>/curriculum/</link>
 <pubDate>Wed, 21 Sep 2022 08:53:54 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acme/curriculum/</guid>
+      <guid>/curriculum/</guid>
 <description></description>
 <category></category></item>
     
