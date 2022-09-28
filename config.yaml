@@ -24,7 +24,11 @@ menu:
     - identifier: acerca de 
       name: Acerca de 
       url: /about 
-      weight: 100 
+      weight: 100  
+    - identifier: blog
+      name: blog
+      url: /blog
+      weight: 70
     - identifier: contacto
       name: contacto 
       url: /contacto 
