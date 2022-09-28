@@ -1,7 +1,7 @@
-baseURL: /acme
+baseURL: /
 languageCode: es-es
 title: ACME Servicios Tecno
-theme: Eclectic
+theme: basico
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -16,22 +16,27 @@ menu:
     - identifier: viajes 
       name: viajes 
       url: /viajes
+      pageRef: viajes
       weight: 10 
     - identifier: curriculum 
       name: Curriculum 
       url: /curriculum 
+      pageRef: curriculum
       weight: 50 
     - identifier: acerca de 
       name: Acerca de 
       url: /about 
+      pageRef: about
       weight: 100  
     - identifier: blog
       name: blog
       url: /blog
+      pageRef: blog
       weight: 70
     - identifier: contacto
       name: contacto 
       url: /contacto 
+      pageRef: contacto
       weight: 200 
 params: 
   colorPickerEnabled: true
