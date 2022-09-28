@@ -21,7 +21,7 @@ menu:
       name: Curriculum 
       url: /curriculum 
       weight: 50 
-    - identifier: about 
+    - identifier: acerca de 
       name: Acerca de 
       url: /about 
       weight: 100 
