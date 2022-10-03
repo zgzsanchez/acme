@@ -43,6 +43,16 @@ menu:
       url: /television/canales
       pageRef: tv
       weight: 250
+    - identifier: pelis 
+      name: peliculas 
+      url: /peliculas/pelis
+      pageRef: pelis
+      weight: 300
+    - identifier: institutos 
+      name: centros 
+      url: /centros/institutos
+      pageRef: institutos
+      weight: 350
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
