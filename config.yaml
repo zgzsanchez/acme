@@ -1,4 +1,4 @@
-baseURL: /acme
+baseURL: /
 languageCode: es-es
 title: ACME Servicios Tecno
 theme: basico
@@ -38,6 +38,11 @@ menu:
       url: /contacto 
       pageRef: contacto
       weight: 200 
+    - identifier: tv 
+      name: canales 
+      url: /television/canales
+      pageRef: tv
+      weight: 250
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
