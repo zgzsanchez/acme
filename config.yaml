@@ -1,7 +1,8 @@
-baseURL: /
+baseURL: /acme
 languageCode: es-es
-title: ACME Servicios Tecno
+title: Acme
 theme: basico
+
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
